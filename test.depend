@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1482219695 source:c:\users\alexandra-andreea\desktop\test\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<iomanip>
+
+1482301424 source:c:\users\raluca mindrut\desktop\test\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<iomanip>
+
+1482301424 source:d:\teme+proiecte\sem1 an 2\gc\test\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<iomanip>
+
